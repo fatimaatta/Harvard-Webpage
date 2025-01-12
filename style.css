@@ -68,12 +68,14 @@ body, h1, h2, p, ul {
 
 /* Main heading in hero section */
 .hero-text h2 {
+   font-family: "Canela Deck Web", serif;
     font-size: 50px;
     font-weight: bold;
     margin-bottom: 10px;
 }
 
 .hero-text p {
+   font-family: "Canela Deck Web", serif;
     font-size: 18px;
     line-height: 1.5;
     max-width: 600px;
