@@ -216,15 +216,6 @@ body, h1, h2, p, ul {
     left: -10px;
   }
   
-  .quote-container blockquote:after {
-    content: "”";
-    font-size: 3rem;
-    color: #d92b27;
-    position: absolute;
-    bottom: -10px;
-    right: -10px;
-  }
-  
   .quote-container .robert {
     font-size: 1rem;
     color: #555;
