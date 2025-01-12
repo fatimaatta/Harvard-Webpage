@@ -316,7 +316,7 @@ body, h1, h2, p, ul {
 
   /* health section */
   .health-section {
-    font-family: Arial, sans-serif;
+     font-family: "Canela Deck Web", serif;
     padding: 20px;
     background-color: #f9f9f9;
   }
@@ -352,6 +352,7 @@ body, h1, h2, p, ul {
   }
   
   .exercise-container h2 {
+     font-family: "Canela Deck Web", serif;
     font-size: 1.8em;
     color: #681919;
     margin-bottom: 15px;
