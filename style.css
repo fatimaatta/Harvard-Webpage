@@ -316,7 +316,7 @@ body, h1, h2, p, ul {
 
   /* health section */
   .health-section {
-     font-family: "Canela Deck Web", serif;
+   font-family: "Canela Deck Web", serif;
     padding: 20px;
     background-color: #f9f9f9;
   }
